@@ -1,0 +1,15 @@
+.filterTitle {
+  color: white;
+  font-size: 15px;
+  font-weight: 900;
+  margin: 0;
+  margin-bottom: 10px;
+}
+
+.inputFilter {
+  padding: 5px;
+  font-weight: bold;
+  color: white;
+
+  background-color: rgb(184, 219, 184);
+}

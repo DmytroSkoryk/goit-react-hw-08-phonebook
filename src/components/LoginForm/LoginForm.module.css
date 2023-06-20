@@ -1,0 +1,28 @@
+.form {
+  width: 320px;
+  margin: auto;
+  margin-top: 200px;
+  border: 2px solid rgb(27, 93, 95);
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.label {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 16px;
+  color: rgb(27, 93, 95);
+}
+
+.logInBtn {
+  margin-left: 40%;
+  background-color: rgb(134, 170, 224);
+  padding: 5px 10px;
+  border-radius: 10px;
+  color: rgb(27, 93, 95);
+  border-color: rgb(27, 93, 95);
+}
+
+.logInBtn:hover {
+  background-color: rgb(152, 181, 223);
+}

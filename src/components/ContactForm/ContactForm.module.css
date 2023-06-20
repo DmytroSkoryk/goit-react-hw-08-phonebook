@@ -1,0 +1,73 @@
+.mainTitle {
+  margin: 0;
+  font-size: 35px;
+  margin-bottom: 15px;
+  margin-top: 15px;
+  color: white;
+}
+
+.phonebookForm {
+  border-radius: 5px;
+  background-color: rgb(151, 210, 228);
+  padding: 20px;
+  height: 250px;
+  display: flex;
+  flex-direction: column;
+}
+
+.nameForm {
+  display: flex;
+  flex-direction: column;
+}
+
+.nameTitle {
+  margin: 0;
+  margin-bottom: 15px;
+  color: white;
+}
+
+.inputName {
+  margin-bottom: 30px;
+  padding: 5px;
+  font-weight: bold;
+  color: white;
+
+  background-color: rgb(184, 219, 184);
+}
+
+.addForm {
+  display: flex;
+  flex-direction: column;
+}
+
+.numberTitle {
+  margin: 0;
+  margin-bottom: 15px;
+  color: white;
+}
+
+.inputNumber {
+  margin-bottom: 30px;
+  padding: 5px;
+  color: white;
+  font-weight: bold;
+
+  background-color: rgb(184, 219, 184);
+}
+
+.addBtn {
+  align-self: center;
+  padding: 10px;
+  border: 0;
+  border-radius: 50px;
+  font-weight: bold;
+  color: white;
+  background-color: rgb(184, 219, 184);
+  cursor: pointer;
+  box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.addBtn:hover {
+  background-color: rgb(203, 214, 203);
+  color: rgb(7, 36, 28);
+}

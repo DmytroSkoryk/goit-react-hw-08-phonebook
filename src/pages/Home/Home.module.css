@@ -1,0 +1,9 @@
+.homePage {
+  display: flex;
+  justify-content: center;
+  margin-top: 200px;
+}
+
+.titleHomePage {
+  color: rgb(27, 93, 95);
+}
